@@ -1,1 +1,7 @@
 Welcome to Devops 
+Welcome to BITgit add doc1.txtgit add doc1.txt! 
+Welcome to BIT
+hi all
+Welcome to BITgit commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3!
+Welcome to BITgit commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3git commit -m commit3!
+let us learn devops
